@@ -1,6 +1,6 @@
 <?php
 /**
- * Description: This library can be used in exporty sql query to csv and xls
+ * Description: This library can be used in export sql query to csv and xls file
  *
  * @author Jai Kumawat
  */
