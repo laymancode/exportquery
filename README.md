@@ -11,4 +11,4 @@ In the package you will find example usage code in the example folder. The examp
 ## **Support**
 If you think you've found a bug please Create an Issue.
 ## **For Help**
-If you're having an issue with Export Query Library  Reach Out to discuss.
+If you're having an issue with Export Query Library Reach Out to discuss.
