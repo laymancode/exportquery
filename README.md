@@ -5,7 +5,7 @@ Export Query Library needs PHP 5.6 or greater. It should work on 5.4 as well, b
 ## **Documentation**
 Documentation is located at https://laymanscode.wordpress.com/export-query/
 ## **Installation**
-See INSTALLING.md file.
+See [INSTALLING.md](https://github.com/laymancode/exportquery/blob/master/INSTALLING.md). file.
 ## **Usage**
 In the package you will find example usage code in the example folder. The example code will show you how to use the library and it's functions.
 ## **Support**
