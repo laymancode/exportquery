@@ -9,6 +9,6 @@ See [INSTALLING.md](https://github.com/laymancode/exportquery/blob/master/INSTAL
 ## **Usage**
 In the package you will find example usage code in the example folder. The example code will show you how to use the library and it's functions.
 ## **Support**
-If you think you've found a bug please Create an Issue.
+If you think you've found a bug please [Create an Issue](https://github.com/laymancode/exportquery/issues/new).
 ## **For Help**
-If you're having an issue with Export Query Library Reach Out to discuss.
+If you're having an issue with Export Query Library [Reach Out](mailto:codelayman@gmail.com) to discuss.
